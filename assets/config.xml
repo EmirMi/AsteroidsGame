@@ -1,0 +1,9 @@
+<xml>
+	<config>
+		<node id="maxBullets">5</node>
+		<node id="maxMissiles">3</node>
+		<node id="timeshot">200</node>
+		<node id="timemissiles">1000</node>
+		<node id="timeteleport">1000</node>
+	</config>
+</xml>
